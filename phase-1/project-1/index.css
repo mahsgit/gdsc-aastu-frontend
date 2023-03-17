@@ -1,6 +1,5 @@
 .body{
  background-color: aquamarine;
- /* padding:  25px 150px 75px 400px; */
  margin:25px 25px 25px 25px ;
 }
 .title{
@@ -25,6 +24,7 @@
 .about{
     background-color: rgb(102, 236, 191);
     box-shadow: 8px 8px 30px rgb(234, 233, 229);
+    padding: 30px 20px 50px 20px;
 }
 
 .abtlegend{
